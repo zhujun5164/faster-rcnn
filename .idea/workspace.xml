@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6241a988-6627-452a-82fd-5b77802ed972" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XhfB6wMUsWF6mus4a0EdkrUZzM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.training_try">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Users\46446\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval_try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Users\46446\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eval_try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Users\46446\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training_try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Users\46446\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training_try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tv-training-code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Users\46446\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tv-training-code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.training_try" />
+        <item itemvalue="Python.eval_try" />
+        <item itemvalue="Python.test_video" />
+        <item itemvalue="Python.tv-training-code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6241a988-6627-452a-82fd-5b77802ed972" name="Default Changelist" comment="" />
+      <created>1581503111131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581503111131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Notifications" timestamp="1582184052805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1582184052805" />
+    <state x="330" y="98" width="1089" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581661541946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="98" width="1089" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581661541946" />
+    <state x="743" y="247" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1581503168597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="743" y="247" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1581503168597" />
+    <state x="727" y="189" key="EnvironmentVariablesDialog" timestamp="1581661513775">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="727" y="189" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581661513775" />
+    <state x="775" y="153" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583310257436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="775" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583310257436" />
+    <state x="1002" y="223" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582169686644" />
+    <state width="1515" height="204" key="GridCell.Tab.0.bottom" timestamp="1583508119516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583508119516" />
+    <state width="1092" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582178169398" />
+    <state width="1515" height="204" key="GridCell.Tab.0.center" timestamp="1583508119516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583508119516" />
+    <state width="1092" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582178169397" />
+    <state width="1515" height="204" key="GridCell.Tab.0.left" timestamp="1583508119516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583508119516" />
+    <state width="1092" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582178169397" />
+    <state width="1515" height="204" key="GridCell.Tab.0.right" timestamp="1583508119516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583508119516" />
+    <state width="1092" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582178169398" />
+    <state width="1156" height="240" key="GridCell.Tab.1.bottom" timestamp="1582808906780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="240" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582808906780" />
+    <state width="900" height="339" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582033833926" />
+    <state width="1156" height="240" key="GridCell.Tab.1.center" timestamp="1582808906780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="240" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582808906780" />
+    <state width="900" height="339" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582033833925" />
+    <state width="1156" height="240" key="GridCell.Tab.1.left" timestamp="1582808906780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="240" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582808906780" />
+    <state width="900" height="339" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582033833925" />
+    <state width="1156" height="240" key="GridCell.Tab.1.right" timestamp="1582808906780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1156" height="240" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582808906780" />
+    <state width="900" height="339" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582033833926" />
+    <state x="84" y="66" width="996" height="708" key="SettingsEditor" timestamp="1582181574623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="84" y="66" width="996" height="708" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582181574623" />
+    <state x="168" y="111" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581943738439" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1582624088256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1582624088256" />
+    <state x="833" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1583310245399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="833" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583310245399" />
+    <state x="1072" y="345" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582169288707" />
+    <state x="3" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582623986490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="3" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1582623986490" />
+    <state x="872" y="180" width="672" height="531" key="search.everywhere.popup" timestamp="1582881618537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="872" y="180" width="672" height="531" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582881618537" />
+    <state x="1119" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582006334244" />
+  </component>
+</project>
